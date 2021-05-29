@@ -1,0 +1,144 @@
+body{
+    background-color: #282828;
+}
+.Aboutus{
+background-image: url("fonn.jpg");
+width: 88vw;
+height: 700px;
+margin-left: 5vw;
+background-size: cover;
+text-align: center;
+margin-top: -5px;
+}
+.Aboutus h1{
+    padding-top:-30px;
+    font-size: 5rem;
+    color: aliceblue;
+}
+.camera{
+    background-image: url("camera.jpg");
+    width: 88vw;
+height: 700px;
+margin-left: 5vw;
+background-size: cover;
+text-align: center;
+}
+.camera h1{
+    padding-top:20px;
+    font-size: 5rem;
+    color: aliceblue;
+}
+span{
+    color: orange;
+}
+h2{
+    font-size: 2rem;
+    color: aliceblue;
+}
+h3{
+    border: 3px solid orange;
+    width: 130px;
+    margin-left: 480px;
+    padding: 5px;
+    color: orange;
+    margin-top: 70px;
+    font-size: 1.5rem;
+}
+.retry{
+    margin-left: 40vw;
+    color: orange;
+}
+.retry:hover{
+   color: red;
+   background-color: orange;
+   cursor: pointer;
+   margin-left: 40vw;
+}
+.moon{
+    font-size: 3rem;
+    color: orangered;
+}
+hr{
+    height: 5px;
+    color: aqua;
+    background-color: aqua;
+    border: aqua;
+    margin-top: -50px;
+}
+.moon1{
+    background-image: url("moonn.jpg");
+    width: 88vw;
+height: 900px;
+margin-left: 4.5vw;
+    background-size: cover;
+  
+}
+.family1{
+    background-image: url("familyy.jpg");
+    width: 88vw;
+    height: 900px;
+    margin-left: 4.5vw;
+    background-size: cover;
+}
+.family{
+    font-size: 3rem;
+    color: orangered;
+}
+.car1{
+    background-image: url("carr.jpg");
+    width: 88vw;
+    height: 900px;
+    margin-left: 4.5vw;
+    background-size: cover;
+}
+.car{
+    font-size: 3rem;
+    color: orangered;
+}
+.contact{
+    font-size: 4rem;
+    color: orange;
+}
+h4{
+    font-size: 2.5rem;
+    color: orange;
+}
+.img{
+    width: 80px;
+    height: 80px;
+}
+.any{
+    font-size: 3rem;
+    text-align: center;
+}
+.faq{
+    color: orange;
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+.b1{
+    font-size: 2.5rem;
+    margin-left: 42vw;
+}
+.b2{
+    font-size: 2.5rem;
+    margin-left: 38vw;
+}
+p{
+    color:orange;
+    font-size: 1.5rem;
+}
+.camera1{
+    display: grid;
+    grid: 100%/ 33% 33% 33%;
+}
+.b3{
+    font-size: 2.5rem;
+    margin-left: 450px;
+    color: orange;
+    margin-left: 43vw;
+}
+.getin{
+    text-align: center;
+}
